@@ -4,7 +4,7 @@
 
 ### 가. 정의
 
-주어진 자료로부터 여러 개의 예측모형들을 만든 후 예측모형들을 조합하여 하나의 최종 예측모형을 만드는 방법으로 `다중 모델 조합`(combining multiple models), `분류기 조합`(classifier combination)이 있다.
+주어진 자료로부터 여러 개의 예측모형들을 만든 후g 예측모형들을 조합하여 하나의 최종 예측모형을 만드는 방법으로 `다중 모델 조합`(combining multiple models), `분류기 조합`(classifier combination)이 있다.
 
 ![](../_images/Ensemble/Ensemble_8.jpeg)
 
