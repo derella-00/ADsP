@@ -1,6 +1,6 @@
 # ADsP
 
-## - Statistics
+## - [Statistics](https://github.com/derella-00/ADsP/blob/main/Statistics/Statistics.md)
 ### 통계분석의 이해
 1. 통계
 2. 통계자료의 획득 방법
